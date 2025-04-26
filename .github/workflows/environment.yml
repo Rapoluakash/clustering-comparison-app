@@ -1,0 +1,12 @@
+name: clustering-comparison-app
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - streamlit
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - scipy
